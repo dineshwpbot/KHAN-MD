@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=KHAN-MD-V3.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=KHAN-MD-V3.0" alt="Typing SVG" /></a>
   </p>
   
 ---  
@@ -13,7 +13,7 @@ KHAN-MD BY JawadTechX 💜
 
 --- 
 
-<a><img src='https://files.catbox.moe/juroe8.jpg'/></a>
+<a><img src='https://files.catbox.moe/7zfdcq.jpg'/></a>
 
 ---
 
@@ -39,8 +39,18 @@ KHAN-MD BY JawadTechX 💜
   <a href="https://github.com/JawadYTX/KHAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
+--------------------------
+- **ANTI-DELETED 🚀**
+- **ANTI-VIEWONCE 🚀**
+- **AUTO-UPDATE 🚀**
+- **AUTO_VOICE 🚀**
+- **AUTO_STICKER 🚀**
+- **AUTO_REPLY 🚀**
+- **ALWAYS_ONLINE_OFFLINE 🚀**
+- **STATUS_REPLY_REACT 🚀**
+- © **POWERD BY JAWADTECHX**
 
-***
+---------
 
 ### 1. Fork This Repository
 
